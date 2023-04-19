@@ -1,5 +1,4 @@
 # All_python_Basics
-
 This Repository is all about the basics of Python (All Parts will have notes and excercises within them so you can read everything.)
 Try to solve all excercises yourself as well.
 Also, we have will have the Data structure and Algorithms as well. As I consider them as a basic necessacity for most of programming languages.
