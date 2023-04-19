@@ -1,0 +1,2 @@
+This Module covers All types of Functions in Python 
+This Module will also cover All the Loops in Python 
